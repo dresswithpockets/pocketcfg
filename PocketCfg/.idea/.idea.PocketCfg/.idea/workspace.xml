@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8737aa3d-9a17-4db6-9186-83b4bc2a07d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Ast.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Parser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/contentModel.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Pkt._g4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/riderModule.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PocketCfg.Pkt/Lexer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Lexer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" beforeDir="false" afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +25,9 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/PocketCfg.Pkt/Lexer.cs" />
       <option value="$PROJECT_DIR$/PocketCfg.Pkt/Parser.cs" />
       <option value="$PROJECT_DIR$/PocketCfg.Pkt/Ast.cs" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt/Lexer.cs" />
       <option value="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" />
     </changedPaths>
   </component>

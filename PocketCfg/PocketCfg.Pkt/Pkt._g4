@@ -1,0 +1,47 @@
+grammar Pkt;
+
+
+
+macroDirective : '#macro' IDENT;
+
+directive : macroDirective;
+
+argList : ;
+
+macroBody : '{' command (NL command?)* '}';
+
+macroCall : IDENT argList macroBody?;
+
+alias : ALIAS_IDENT macroCall;
+
+commandArgList : UNTIL_NEW_LINE;
+
+command : IDENT commandArgList;
+
+statement : directive
+          | alias
+          | macroCall
+          | command
+          ;
+
+statementList : statement (NL statement?)*;
+
+item : string
+     | IDENT
+     | NUMBER;
+
+itemList : item+;
+
+string : ('"'|'\'') itemList ('"'|'\'');
+
+fragment Quote : '"' | '\'';
+fragment Ident : [a-zA-Z_][a-zA-Z0-9_]*;
+
+BLOCK_COMMENT : '/*' .*? '*/' -> channel(HIDDEN);
+LINE_COMMENT : '//' ~[\r\n]* -> channel(HIDDEN);
+ALIAS_IDENT : '@'[a-zA-Z_][a-zA-Z0-9_]*; 
+IDENT : [a-zA-Z_][a-zA-Z0-9_]*;
+NUMBER : [+-]?([0-9]*[.])?[0-9]+;
+UNTIL_NEW_LINE : .*?~[\r\n]*;
+NL : [\n\r]+;
+WS : [ \t]+ -> channel(HIDDEN);
