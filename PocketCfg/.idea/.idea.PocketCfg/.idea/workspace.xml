@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8737aa3d-9a17-4db6-9186-83b4bc2a07d0" name="Default Changelist" comment="" />
+    <list default="true" id="8737aa3d-9a17-4db6-9186-83b4bc2a07d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Ast.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Parser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PocketCfg.Pkt/Lexer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Lexer.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +20,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/PocketCfg.Pkt/Lexer.cs" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt/Parser.cs" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt/Ast.cs" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1s3SwECUNT6N0fjyinYBnvE8s8t" />
@@ -43,13 +64,16 @@
       <option name="presentableId" value="Default" />
       <updated>1620100021139</updated>
       <workItem from="1620100027531" duration="883000" />
+      <workItem from="1620112551388" duration="49000" />
+      <workItem from="1620112826517" duration="2514000" />
+      <workItem from="1620115648112" duration="611000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -61,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
