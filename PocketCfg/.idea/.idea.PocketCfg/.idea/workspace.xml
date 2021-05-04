@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8737aa3d-9a17-4db6-9186-83b4bc2a07d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Pkt._g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Processor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PocketCfg/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" beforeDir="false" afterPath="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PocketCfg.Pkt/PocketCfg.Pkt.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PocketCfg.Pkt/PocketCfg.Pkt.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PocketCfg.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PocketCfg.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +29,20 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B8EF69D3-A481-43FE-8568-E981A8FFA98B/3A1/StreamWriter.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/PocketCfg.Pkt/Parser.cs" />
       <option value="$PROJECT_DIR$/PocketCfg.Pkt/Ast.cs" />
       <option value="$PROJECT_DIR$/PocketCfg.Pkt/Lexer.cs" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt/buildgrammar.sh" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4.txt" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt.Tests/UnitTest1.cs" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt/Processor.cs" />
       <option value="$PROJECT_DIR$/PocketCfg.Pkt/Pkt.g4" />
+      <option value="$PROJECT_DIR$/PocketCfg.Pkt.Tests/ProcessorTest.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1s3SwECUNT6N0fjyinYBnvE8s8t" />
@@ -38,6 +52,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -47,7 +63,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +77,7 @@
       <workItem from="1620100027531" duration="883000" />
       <workItem from="1620112551388" duration="49000" />
       <workItem from="1620112826517" duration="2514000" />
-      <workItem from="1620115648112" duration="611000" />
+      <workItem from="1620115648112" duration="5133000" />
     </task>
     <servers />
   </component>

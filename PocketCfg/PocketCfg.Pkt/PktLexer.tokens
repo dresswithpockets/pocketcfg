@@ -1,0 +1,7 @@
+T__0=1
+STRING_LIT=2
+IDENT=3
+NUMBER=4
+NL=5
+WS=6
+';'=1
