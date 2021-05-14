@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50a64ca5-1928-4d51-8eea-6dab6be48e64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PocketCfg.Hud/HudEditor.axaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PocketCfg.Hud/HudEditor.axaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Hud/HudPanel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Pktcopy.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Test.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PocketCfg.Res/Res.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PocketCfg.Res/ResObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PocketCfg.Res/antlr4-4.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PocketCfg.Res/buildgrammar.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt.Tests/ProcessorTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt.Tests/ProcessorTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Lexer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Lexer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Pkt.g4" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Pkt.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Pkt.interp" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Pkt.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Pkt.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Pkt.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktBaseListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktBaseListener.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktLexer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktLexer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktLexer.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktLexer.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktListener.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktParser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PocketCfg.Pkt.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PocketCfg.Pkt.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Processor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Processor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Native/VTF.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Native/Vtf.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Hud/HudPanel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Hud/HealthPanel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ClientScheme.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HudLoader.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1sVRzCKlNcnWYk16C4AUW0xilR1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a64ca5-1928-4d51-8eea-6dab6be48e64" name="Default Changelist" comment="" />
+      <created>1620956035953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620956035953</updated>
+      <workItem from="1620956047615" duration="585000" />
+      <workItem from="1620991462876" duration="3545000" />
+      <workItem from="1621006921128" duration="2035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
