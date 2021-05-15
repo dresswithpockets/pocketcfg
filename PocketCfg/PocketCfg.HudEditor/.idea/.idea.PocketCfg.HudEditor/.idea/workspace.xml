@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a64ca5-1928-4d51-8eea-6dab6be48e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PocketCfg.Hud/HudEditor.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PocketCfg.Hud/HudEditor.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Hud/HudPanel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Pktcopy.g4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Test.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PocketCfg.Res/Res.g4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PocketCfg.Res/ResObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PocketCfg.Res/antlr4-4.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PocketCfg.Res/buildgrammar.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.PocketCfg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Hud/HudEditor.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Hud/HudEditor.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Hud/HudEditor.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Hud/HudEditor.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PocketCfg.HudEditor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PocketCfg.HudEditor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt.Tests/ProcessorTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt.Tests/ProcessorTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Lexer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Lexer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Pkt.g4" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Pkt.g4" afterDir="false" />
@@ -26,8 +20,10 @@
       <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktLexer.tokens" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktListener.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PktParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PktParser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Pktcopy.g4" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Pktcopy.g4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/PocketCfg.Pkt.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/PocketCfg.Pkt.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Processor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Processor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketCfg.Pkt/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.Pkt/Test.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocketCfg.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketCfg.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +94,7 @@
       <updated>1620956035953</updated>
       <workItem from="1620956047615" duration="585000" />
       <workItem from="1620991462876" duration="3545000" />
-      <workItem from="1621006921128" duration="2035000" />
+      <workItem from="1621006921128" duration="3037000" />
     </task>
     <servers />
   </component>
